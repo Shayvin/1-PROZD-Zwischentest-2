@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Zwischentest2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Zwischentest2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zwischentest2-Debug-381c5895de4326587388.json",
+					"name" : "Zwischentest2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/leitner/Library/CloudStorage/OneDrive-FHTechnikumWien/WS 2022/Prozedurale Sprachen Labor/Zwischentest2/cmake-build-debug",
+		"source" : "/Users/leitner/Library/CloudStorage/OneDrive-FHTechnikumWien/WS 2022/Prozedurale Sprachen Labor/Zwischentest2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
